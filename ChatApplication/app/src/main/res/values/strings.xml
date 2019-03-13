@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="enter_your_userid">Enter Your UserID</string>
+    <string name="login">Login</string>
+</resources>
